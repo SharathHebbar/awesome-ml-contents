@@ -1,0 +1,8 @@
+
+MLOps: https://ml-ops.org/
+ML: https://madewithml.com/
+DL: https://fall2019.fullstackdeeplearning.com/
+Coursera: https://www.deeplearning.ai/
+MLOps: https://github.com/SharathHebbar/mlops-zoomcamp credits: https://github.com/DataTalksClub/mlops-zoomcamp
+MLOps: https://github.com/SharathHebbar/awesome-production-machine-learning credits: https://github.com/EthicalML/awesome-production-machine-learning
+MLOps: https://github.com/SharathHebbar/awesome-mlops credits: https://github.com/visenger/awesome-mlops
